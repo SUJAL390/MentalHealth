@@ -1,0 +1,27 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#MindMuscle{
+    color:white;
+    margin-right: 700px;
+    font-size: 1.2em
+}
+#learn-more{
+    font-size: 1.2em;
+  
+}
+.written{
+    margin: 100px;
+}
+#image-section{
+    display: flex;
+ flex-wrap: wrap;
+}
+#image-section2{
+    display: flex;
+ flex-wrap: wrap;
+ flex-direction: column;
+}
